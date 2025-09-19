@@ -15,7 +15,7 @@ This repository contains a Python project for building and evaluating a **Logist
 ## Repository Contents
 
 * `logistic_regression.py`: The Python script containing all the code for the project.
-* `train.csv`: The Titanic dataset used for training and testing the model.
+* `Titanic-Dataset.csv`: The Titanic dataset used for training and testing the model.
 * `README.md`: This file, providing an overview and instructions.
 
 ## Dependencies
